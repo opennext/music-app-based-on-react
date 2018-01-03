@@ -1,0 +1,54 @@
+/*@font-face {
+  font-family: "SamsungSmart_Latin Medium";
+  src: url("./fonts/SamsungSmart_Latin_Medium.woff");
+}
+
+@font-face {
+  font-family: "SamsungSmart_Latin Light";
+  src: url("./fonts/SamsungSmart_Latin_Light.woff");
+}
+
+@font-face {
+  font-family: "SamsungSmart_Latin Bold";
+  src: url("./fonts/SamsungSmart_Latin_Bold.woff");
+}
+
+@font-face {
+  font-family: "SamsungSmart_Latin Thin";
+  src: url("fonts/SamsungSmart_Latin_Thin.woff");
+}*/
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 1920px;
+  height: 1080px;
+  font-family:'SamsungSmart_Latin Thin';
+}
+  
+.playlist-container {
+  position: absolute;
+  left:1500px;
+  top:0px;
+  width: 350px;
+  height: 1080px;
+  box-sizing: border-box;
+  padding: 20px;
+  z-index:1;
+}
+
+.player-container {
+  position: absolute;
+  left:0;
+  top:0;
+  width: 1920px;
+  height: 1080px;
+}
+
+.copyright{
+  position: absolute;
+  right: 20px;
+  bottom: 10px;
+  color: white;
+  font-size: 30px;
+}
