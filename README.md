@@ -1,9 +1,10 @@
-A Music Application based on React and Redux  
+__A Music Application based on React and Redux__  
 
 ### Overview
-It(music-app-based-on-react) is a sample of music player based on H5 Audio and react.js. It is created by the `react script`.
-
-Its theme used TV design style. So it is fit to run in TV. As a web app, so you can also run it on PC or mobile using Chrome or Safari.
+It(music-app-based-on-react) is a sample of music player based on H5 Audio and react.js.   
+It is created by the `react script`.
+Its theme used TV design style. So it is fit to run in TV.  
+As a web app, so you can also run it on PC or mobile using Chrome or Safari.
 
 ### App Snapshot
 ![music app snapshot](snapshot.jpg)
