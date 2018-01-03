@@ -6,7 +6,7 @@ It(music-app-based-on-react) is a sample of music player based on H5 Audio and r
 Its theme used TV design style. So it is fit to run in TV. As a web app, so you can also run it on PC or mobile using Chrome or Safari.
 
 ### App Snapshot
-![music app snapshot](snapshot.png)
+![music app snapshot](snapshot.jpg)
 
 
 ### Construct sketch  
